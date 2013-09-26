@@ -1,0 +1,8 @@
+1.  you can install valgring using the mac port.
+2. If you are doing it for the first time them you need to accept the xcode licence.
+3. run 'sudo xcodebuild -licence'
+4. navigate to the last page.
+5. type agree where asked. 
+6. run 'sudo port install valgrind +universal'
+
+
